@@ -1,4 +1,4 @@
-# onedarkpro
+# OneDark Pro
 QtCreator Syntax Color Theme inspired by OneDark Atom theme and OneDark Pro VSCode Theme.
 
 # Support
