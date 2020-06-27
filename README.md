@@ -10,17 +10,17 @@ If you like this theme, you can use it for free appreciate your support to have 
 # Screenshots
 
 ### Qt C++
-![Qt](https://github.com/foxoman/riva/blob/master/Rivacpp.png?raw=true)
+![Qt](https://raw.githubusercontent.com/foxoman/onedarkpro/master/onedarkPro.png)
 
 # Install
 
 ## Windows
-`xcopy riva.xml %APPDATA%\QtProject\qtcreator\styles`
+`xcopy onedarkpro.xml %APPDATA%\QtProject\qtcreator\styles`
 
 ## MacOS
-`cp riva.xml ~/.config/QtProject/qtcreator/styles/`
+`cp onedarkpro.xml ~/.config/QtProject/qtcreator/styles/`
 
 ## Linux
-`cp riva.xml ~/.config/QtProject/qtcreator/styles/`
+`cp onedarkpro.xml ~/.config/QtProject/qtcreator/styles/`
 
 
