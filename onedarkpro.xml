@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="2.0" name="Onedark Pro">
-  <style name="Text" foreground="#ffaa7f" background="#282c34"/>
+<style-scheme version="1.0" name="Onedark Pro">
+  <style name="Text" foreground="#ffffff" background="#282c34"/>
   <style name="Link" foreground="#5124e3"/>
   <style name="Selection" foreground="#474d50" background="#996a6a"/>
   <style name="LineNumber" foreground="#555753"/>
@@ -27,7 +27,7 @@
   <style name="PrimitiveType" foreground="#98c379"/>
   <style name="Operator" foreground="#babdb6"/>
   <style name="Overloaded Operator" foreground="#abb2bf" bold="true"/>
-  <style name="Punctuation"/>
+  <style name="Punctuation" foreground="#ffaa7f"/>
   <style name="Preprocessor" foreground="#ee72ba"/>
   <style name="Label" foreground="#cb97ff"/>
   <style name="Comment" foreground="#7f848e" italic="true"/>
