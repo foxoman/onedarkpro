@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Onedark Pro">
-  <style name="Text" foreground="#ffffff" background="#282c34"/>
+<style-scheme version="2.0" name="Onedark Pro">
+  <style name="Text" foreground="#ffaa7f" background="#282c34"/>
   <style name="Link" foreground="#5124e3"/>
-  <style name="Selection" foreground="#b0bec5" background="#413636"/>
+  <style name="Selection" foreground="#474d50" background="#996a6a"/>
   <style name="LineNumber" foreground="#555753"/>
   <style name="SearchResult" foreground="#000000" background="#ffef0b"/>
   <style name="SearchScope" foreground="#000000" background="#f7fafe"/>
@@ -19,7 +19,7 @@
   <style name="Type" foreground="#e5c07b"/>
   <style name="Local" foreground="#e06c75"/>
   <style name="Global" foreground="#4e92d5"/>
-  <style name="Field" foreground="#4e92d5"/>
+  <style name="Field" foreground="#e06c75"/>
   <style name="Static" foreground="#c678dd"/>
   <style name="VirtualMethod" foreground="#98c379"/>
   <style name="Function" foreground="#e1e2e7"/>
@@ -30,7 +30,7 @@
   <style name="Punctuation"/>
   <style name="Preprocessor" foreground="#ee72ba"/>
   <style name="Label" foreground="#cb97ff"/>
-  <style name="Comment" foreground="#7f848e"/>
+  <style name="Comment" foreground="#7f848e" italic="true"/>
   <style name="Doxygen.Comment" foreground="#7f7f7f"/>
   <style name="Doxygen.Tag" foreground="#6c6c6c"/>
   <style name="VisualWhitespace" foreground="#c0c0c0"/>
@@ -63,6 +63,6 @@
   <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
   <style name="Declaration"/>
   <style name="FunctionDefinition"/>
-  <style name="OutputArgument" foreground="#cb97ff"/>
+  <style name="OutputArgument" foreground="#e06c75"/>
   <style name="LastStyleSentinel"/>
 </style-scheme>
